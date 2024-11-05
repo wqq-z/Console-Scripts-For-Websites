@@ -44,5 +44,7 @@ added a check funtion to prevent this but it doesnt works
 
 Welp fixing it i had added to clickTimeout 30ms to deny this err.
 
+NEW ERR: for some fucking reason it click when it want fucking app
+
 Tested in: Firefox, Win 11
 */
